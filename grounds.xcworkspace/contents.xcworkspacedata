@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "basic">
+      <FileRef
+         location = "group:groups/cars.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/flow.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/flow2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/for-in.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/loop-in-range.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/switch.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/value-binding.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/variables.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/while.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "functions">
+      <FileRef
+         location = "group:groups/closure.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/functions.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/named-return-values.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/parameter-default-value.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/returns-tuple.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "classes">
+      <FileRef
+         location = "group:groups/classes.playground">
+      </FileRef>
+      <FileRef
+         location = "group:groups/structures.playground">
+      </FileRef>
+   </Group>
+</Workspace>
